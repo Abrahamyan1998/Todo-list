@@ -125,7 +125,7 @@ main {
 	transition: 0.4s;
 }
 
-.task .content .text:not(:read-only) { /* եթե <<միայն կարդալ>> ատրբուտ չունի այսինքն խմբագրել կնոպկեն սեղմածա գույնը փոխում եմ ինձութի տեքստի */
+.task .content .text:not(:read-only) { 
 	color: var(--pink);
 }
 
